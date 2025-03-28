@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Yuanhang Zong
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building cool things. Below you'll find more about me, my education, work experience, and projects.
-
----
-
-## 📧 Contact Me
-
-- **Email**: [zongyuanhang@cnpc.com.cn](mailto:zongyuanhang@cnpc.com.cn)
 
 ---
 
@@ -32,5 +25,10 @@ _Duration: [07 2017] - Present_
 - **Web Development**: Spring, HTML, CSS, Vue, etc.
 - **Tools & Platforms**: Git, Docker, K8s, etc.
 - **Other**: Deeplearning
+  
+---
 
+## 📧 Contact Me
+
+- **Email**: [zongyuanhang@cnpc.com.cn](mailto:zongyuanhang@cnpc.com.cn)
 ---
