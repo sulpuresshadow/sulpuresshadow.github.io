@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuanhang Zong
+# Yuanhang Zong
 
 
 ---
@@ -21,10 +21,10 @@ _Duration: [07 2017] - Present_
 
 ## 🔧 Skills
 
-- **Programming Languages**: Java, Python, JavaScript, Scala, etc.
+- **Programming Languages**: Java, Python, Scala, JavaScript, etc.
 - **Web Development**: Spring, HTML, CSS, Vue, etc.
 - **Tools & Platforms**: Git, Docker, K8s, etc.
-- **Other**: Deeplearning
+- **Other**: Deeplearning, Spark, Hadoop
   
 ---
 
