@@ -5,7 +5,7 @@
 
 ## 🎓 Education
 
-### Hebei University of Technology
+### 河北工业大学  Hebei University of Technology
 B.A., Network Engineering
 Graduated: 06 2017 
 
